@@ -3,7 +3,7 @@ import "./App.css";
 const App = () => {
   return (
     <>
-      <p className="text-4xl border ">Hello</p>
+      <p className="text-4xl border ">Portfolio under construction</p>
     </>
   );
 };
